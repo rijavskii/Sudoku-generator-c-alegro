@@ -1,0 +1,7 @@
+D:\Visual Studio 2015\Projects\Sudok\Sudoku v 1.2\bin\Debug\Sudoku v 1.2.exe.config
+D:\Visual Studio 2015\Projects\Sudok\Sudoku v 1.2\bin\Debug\Sudoku v 1.2.exe
+D:\Visual Studio 2015\Projects\Sudok\Sudoku v 1.2\bin\Debug\Sudoku v 1.2.pdb
+D:\Visual Studio 2015\Projects\Sudok\Sudoku v 1.2\bin\Debug\SlimDX.dll
+D:\Visual Studio 2015\Projects\Sudok\Sudoku v 1.2\obj\Debug\Sudoku v 1.2.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Sudok\Sudoku v 1.2\obj\Debug\Sudoku v 1.2.exe
+D:\Visual Studio 2015\Projects\Sudok\Sudoku v 1.2\obj\Debug\Sudoku v 1.2.pdb
